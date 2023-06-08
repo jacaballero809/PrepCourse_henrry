@@ -1,2 +1,1 @@
-# PrepCourse_henrry
-este es un repositorio de prueba del modulo 2 
+este proyecto es un ejemplo de como crear un repositorio y clonarlo 
